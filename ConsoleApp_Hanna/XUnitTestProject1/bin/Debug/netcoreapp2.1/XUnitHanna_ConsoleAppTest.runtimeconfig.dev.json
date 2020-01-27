@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HAOK\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HAOK\\.nuget\\packages"
+    ]
+  }
+}

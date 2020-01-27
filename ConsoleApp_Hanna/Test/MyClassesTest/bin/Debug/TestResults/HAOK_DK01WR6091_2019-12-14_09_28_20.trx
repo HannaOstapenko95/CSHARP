@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="8e08aa9c-690b-4939-bc1f-722cea87c912" name="HAOK@DK01WR6091 2019-12-14 09:28:20" runUser="SCDOM\HAOK" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2019-12-14T09:28:20.3918583+02:00" queuing="2019-12-14T09:28:20.3918583+02:00" start="2019-12-14T09:28:17.0481302+02:00" finish="2019-12-14T09:28:21.4399471+02:00" />
+  <TestSettings name="default" id="09a66a96-3028-4b42-af8b-0b1d91751bca">
+    <Deployment runDeploymentRoot="HAOK_DK01WR6091_2019-12-14_09_28_20" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="39e0bf63-2eb9-43b4-a0a0-b0f55f0ebba5" testId="ab6a3ba6-ca27-4117-7600-40e61fea33d4" testName="StartWithTest" computerName="DK01WR6091" duration="00:00:00.0003974" startTime="2019-12-14T09:28:21.0573369+02:00" endTime="2019-12-14T09:28:21.0583378+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39e0bf63-2eb9-43b4-a0a0-b0f55f0ebba5" />
+    <UnitTestResult executionId="dd0723ed-f27a-4064-8837-d44a8cfd65b6" testId="aa89ef2d-b111-f9ff-cbf1-7eb334af590a" testName="AreNotEqualTest" computerName="DK01WR6091" duration="00:00:00.0005650" startTime="2019-12-14T09:28:18.9943055+02:00" endTime="2019-12-14T09:28:18.9953068+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd0723ed-f27a-4064-8837-d44a8cfd65b6" />
+    <UnitTestResult executionId="bcaa65f3-3540-4984-99f2-3d81402c42fa" testId="8f766dce-a456-e293-bb17-30079514866c" testName="FileNameDoesExistUsingDeploymentItem" computerName="DK01WR6091" duration="00:00:00.0021610" startTime="2019-12-14T09:28:21.0168433+02:00" endTime="2019-12-14T09:28:21.0193384+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bcaa65f3-3540-4984-99f2-3d81402c42fa">
+      <Output>
+        <StdOut>TestContext Messages:
+Creating File: C:\Users\HAOK\AppData\Roaming\TestFile.txt&#xD;
+Checking file: U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\TestResults\Deploy_HAOK 2019-12-14 09_28_17\Out\FileToDeploy.txt&#xD;
+Deleting File: C:\Users\HAOK\AppData\Roaming\TestFile.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7c395712-83dd-47b2-8b7e-850f7b49c99a" testId="eb8193a6-de59-1884-11fa-f4991fd15217" testName="DoEmployeesExistTest" computerName="DK01WR6091" duration="00:00:00.0006606" startTime="2019-12-14T09:28:21.0768384+02:00" endTime="2019-12-14T09:28:21.0773384+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7c395712-83dd-47b2-8b7e-850f7b49c99a" />
+    <UnitTestResult executionId="49e60a31-8201-4375-98cd-36ca539f650d" testId="9a470c5a-185d-f2e8-7674-aec06fd05d17" testName="SimulateTimeout" computerName="DK01WR6091" duration="00:00:02.0033656" startTime="2019-12-14T09:28:19.0123150+02:00" endTime="2019-12-14T09:28:21.0168433+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="49e60a31-8201-4375-98cd-36ca539f650d" />
+    <UnitTestResult executionId="66932c54-f324-4602-9468-d7e68f75c5d6" testId="754a9a1e-4ffb-6f78-b64b-e6f8f66f303c" testName="AreCollectionsEqualTest" computerName="DK01WR6091" duration="00:00:00.0002873" startTime="2019-12-14T09:28:21.0678368+02:00" endTime="2019-12-14T09:28:21.0683377+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="66932c54-f324-4602-9468-d7e68f75c5d6" />
+    <UnitTestResult executionId="41880ec0-fe20-42c2-90ba-8e8a231381f5" testId="fdb63ed2-694c-d664-9728-c75237d89ac3" testName="FileNameDoesExist" computerName="DK01WR6091" duration="00:00:00.0039755" startTime="2019-12-14T09:28:19.0058174+02:00" endTime="2019-12-14T09:28:19.0123150+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="41880ec0-fe20-42c2-90ba-8e8a231381f5">
+      <Output>
+        <StdOut>TestContext Messages:
+In the Class Initialize.&#xD;
+Creating File: C:\Users\HAOK\AppData\Roaming\TestFile.txt&#xD;
+Testing a file C:\Users\HAOK\AppData\Roaming\TestFile.txt&#xD;
+Deleting File: C:\Users\HAOK\AppData\Roaming\TestFile.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b9398573-2cf8-4be7-a1f8-fbba452baedc" testId="948a47df-51bb-4725-beb5-edc1acccd889" testName="IsInstanceOfTypeTest" computerName="DK01WR6091" duration="00:00:00.0014178" startTime="2019-12-14T09:28:19.0033083+02:00" endTime="2019-12-14T09:28:19.0053154+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b9398573-2cf8-4be7-a1f8-fbba452baedc" />
+    <UnitTestResult executionId="28c8ea13-c867-4993-b9b6-6f5dd8dbba41" testId="c604f9dc-0c55-ecb7-a325-dd62a2d3bdbd" testName="IsCollectionOfTypeSupervisorsandEmployeeTest" computerName="DK01WR6091" duration="00:00:00.0004631" startTime="2019-12-14T09:28:21.0758368+02:00" endTime="2019-12-14T09:28:21.0768384+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="28c8ea13-c867-4993-b9b6-6f5dd8dbba41" />
+    <UnitTestResult executionId="feddd054-3f12-4285-91d3-2e6816fc43c8" testId="20ec1024-1667-0be1-45e1-8606789b30b1" testName="IsNotAllLowerCaseTest" computerName="DK01WR6091" duration="00:00:00.0005278" startTime="2019-12-14T09:28:21.0593632+02:00" endTime="2019-12-14T09:28:21.0603373+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="feddd054-3f12-4285-91d3-2e6816fc43c8" />
+    <UnitTestResult executionId="ad427680-6278-4110-a104-81a0445ccde5" testId="0df9e683-cb53-aebe-889e-357c4473ffdb" testName="AreEqualTest" computerName="DK01WR6091" duration="00:00:00.0120341" startTime="2019-12-14T09:28:18.8562986+02:00" endTime="2019-12-14T09:28:18.9313383+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad427680-6278-4110-a104-81a0445ccde5">
+      <Output>
+        <StdOut>TestContext Messages:
+In the Assembly Initialize Method.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6953301b-9bd2-4924-a760-e2f0b28bd688" testId="8e1cbf42-8990-8520-e4f5-3d31cffe5c51" testName="FileNameDoesNotExist" computerName="DK01WR6091" duration="00:00:00.0010938" startTime="2019-12-14T09:28:21.0193384+02:00" endTime="2019-12-14T09:28:21.0208393+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6953301b-9bd2-4924-a760-e2f0b28bd688" />
+    <UnitTestResult executionId="5eb0c802-ad51-47af-94bc-90f16973ac93" testId="c522c2f3-bcb6-efc0-ff99-ead9be599c7c" testName="AreEqualCaseSensitiveTest" computerName="DK01WR6091" duration="00:00:00.0365768" startTime="2019-12-14T09:28:18.9563091+02:00" endTime="2019-12-14T09:28:18.9943055+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5eb0c802-ad51-47af-94bc-90f16973ac93" />
+    <UnitTestResult executionId="4140f192-6bbe-4050-a619-7855fb579ea2" testId="3ffd4c12-5d8e-9b79-cb59-32326e42e625" testName="IsAllLowerCaseTest" computerName="DK01WR6091" duration="00:00:00.0008913" startTime="2019-12-14T09:28:21.0583378+02:00" endTime="2019-12-14T09:28:21.0593632+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4140f192-6bbe-4050-a619-7855fb579ea2" />
+    <UnitTestResult executionId="6fda4e11-3c60-410b-8977-9cadbdd6cd57" testId="f57cb16f-aea9-f71d-48a8-459c61527b90" testName="FileNameNullOrEmpty_ThrowsArgumentNullException_UseTryCatch" computerName="DK01WR6091" duration="00:00:00.0003317" startTime="2019-12-14T09:28:21.0538369+02:00" endTime="2019-12-14T09:28:21.0558377+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6fda4e11-3c60-410b-8977-9cadbdd6cd57" />
+    <UnitTestResult executionId="0e5142f4-353a-40b9-9cf4-a644f215fb52" testId="7033bb12-92d9-792c-f7a8-5e92be3783a8" testName="AreCollectionsEqualWithComparerTestt" computerName="DK01WR6091" duration="00:00:00.0017023" startTime="2019-12-14T09:28:21.0653374+02:00" endTime="2019-12-14T09:28:21.0678368+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e5142f4-353a-40b9-9cf4-a644f215fb52" />
+    <UnitTestResult executionId="2635a2c2-bad0-4c29-8709-e093dad5c115" testId="ebac0611-47f2-ba1b-dcbd-1ca59f0d3f82" testName="AreSameTest" computerName="DK01WR6091" duration="00:00:00.0071008" startTime="2019-12-14T09:28:18.9953068+02:00" endTime="2019-12-14T09:28:19.0023092+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2635a2c2-bad0-4c29-8709-e093dad5c115" />
+    <UnitTestResult executionId="62283064-c137-4d45-a652-75bd9c997740" testId="a348bdde-e992-3785-bb48-93c677b88783" testName="FileNameDoesExistMessageWithFormatting" computerName="DK01WR6091" duration="00:00:00.0029065" startTime="2019-12-14T09:28:21.0483378+02:00" endTime="2019-12-14T09:28:21.0513372+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="62283064-c137-4d45-a652-75bd9c997740">
+      <Output>
+        <StdOut>TestContext Messages:
+Creating File: C:\Users\HAOK\AppData\Roaming\TestFile.txt&#xD;
+Deleting File: C:\Users\HAOK\AppData\Roaming\TestFile.txt</StdOut>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. File C:\Users\HAOK\AppData\Roaming\TestFile.txt Does NOT Exist.</Message>
+          <StackTrace>   at MyClassesTest.FileProcessTest.FileNameDoesExistMessageWithFormatting() in U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\FileProcessTest.cs:line 145&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4abd935f-3c00-4b2c-84d6-3d1d219e051e" testId="d8d10b90-93b1-e4b7-8e8a-426ed51fe24f" testName="CreatePerson_OfTypeEmployeeTest" computerName="DK01WR6091" duration="00:00:00.0004206" startTime="2019-12-14T09:28:21.0733373+02:00" endTime="2019-12-14T09:28:21.0748360+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4abd935f-3c00-4b2c-84d6-3d1d219e051e" />
+    <UnitTestResult executionId="a7f8544f-8de4-4b36-b068-230b9b014a95" testId="315ee99c-fd06-664d-4f2e-1dec0b5450b3" testName="IsCollectionTypeTest" computerName="DK01WR6091" duration="00:00:00.0013283" startTime="2019-12-14T09:28:21.0713362+02:00" endTime="2019-12-14T09:28:21.0733373+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a7f8544f-8de4-4b36-b068-230b9b014a95" />
+    <UnitTestResult executionId="cf2d86f5-65d9-4844-9ef1-8cac13911b76" testId="ad964530-0513-a64f-c3ce-91b4cd4a6181" testName="GetEmployeesTest" computerName="DK01WR6091" duration="00:00:00.0004676" startTime="2019-12-14T09:28:21.0748360+02:00" endTime="2019-12-14T09:28:21.0758368+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cf2d86f5-65d9-4844-9ef1-8cac13911b76" />
+    <UnitTestResult executionId="199bb4c3-2977-498b-ac68-68c5c23269d8" testId="c168005c-794f-017f-dfdb-bc7a06757b7c" testName="AreNotSameTest" computerName="DK01WR6091" duration="00:00:00.0002219" startTime="2019-12-14T09:28:19.0023092+02:00" endTime="2019-12-14T09:28:19.0033083+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="199bb4c3-2977-498b-ac68-68c5c23269d8" />
+    <UnitTestResult executionId="37e5d0a5-c489-46e5-8aca-b3b479e2860f" testId="9c482595-c7bc-cce9-e523-f9801ce13f6c" testName="ContainsTest" computerName="DK01WR6091" duration="00:00:00.0007265" startTime="2019-12-14T09:28:21.0563375+02:00" endTime="2019-12-14T09:28:21.0573369+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="37e5d0a5-c489-46e5-8aca-b3b479e2860f" />
+    <UnitTestResult executionId="3dbe07d4-db73-4e13-9c7a-c2cf449e14d1" testId="d16f1545-2366-1977-5243-2f4e0e53a414" testName="AreCollectionsEquivalentTest" computerName="DK01WR6091" duration="00:00:00.0028079" startTime="2019-12-14T09:28:21.0683377+02:00" endTime="2019-12-14T09:28:21.0713362+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3dbe07d4-db73-4e13-9c7a-c2cf449e14d1" />
+    <UnitTestResult executionId="13f34f1b-341c-4389-b479-337bd13536ca" testId="daf73f76-6971-ced6-9cfd-0c4b16271512" testName="FileNameDoesExistSimpleMessage" computerName="DK01WR6091" duration="00:00:00.0266464" startTime="2019-12-14T09:28:21.0208393+02:00" endTime="2019-12-14T09:28:21.0478369+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="13f34f1b-341c-4389-b479-337bd13536ca">
+      <Output>
+        <StdOut>TestContext Messages:
+Creating File: C:\Users\HAOK\AppData\Roaming\TestFile.txt&#xD;
+Deleting File: C:\Users\HAOK\AppData\Roaming\TestFile.txt</StdOut>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. File Does NOT Exist.</Message>
+          <StackTrace>   at MyClassesTest.FileProcessTest.FileNameDoesExistSimpleMessage() in U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\FileProcessTest.cs:line 133&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0ce5d1f8-2fc6-4e15-8e0d-f5bd35f44c65" testId="16ebbc70-dd0d-23a5-e94a-1f095b4b03b1" testName="AreCollectionsEqualFailsBecauseNoComparerTest" computerName="DK01WR6091" duration="00:00:00.0045074" startTime="2019-12-14T09:28:21.0603373+02:00" endTime="2019-12-14T09:28:21.0653374+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ce5d1f8-2fc6-4e15-8e0d-f5bd35f44c65">
+      <Output>
+        <ErrorInfo>
+          <Message>CollectionAssert.AreEqual failed. (Element at index 0 do not match.)</Message>
+          <StackTrace>   at MyClassesTest.CollectionAssertClassTest.AreCollectionsEqualFailsBecauseNoComparerTest() in U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\CollectionAssertClassTest.cs:line 24&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3d822c26-2b72-4902-b433-61338d3e0f13" testId="080f1493-1460-536e-1f1b-d1191bc2ccdd" testName="IsNullTest" computerName="DK01WR6091" duration="00:00:00.0001910" startTime="2019-12-14T09:28:19.0053154+02:00" endTime="2019-12-14T09:28:19.0058174+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d822c26-2b72-4902-b433-61338d3e0f13" />
+    <UnitTestResult executionId="84bea047-fb60-4f58-8106-e1e3f3cde123" testId="5d0605af-b11d-609f-ed31-d2c9788db9d3" testName="FileNameNullOrEmpty_ThrowsArgumentNullException" computerName="DK01WR6091" duration="00:00:00.0018334" startTime="2019-12-14T09:28:21.0513372+02:00" endTime="2019-12-14T09:28:21.0538369+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="84bea047-fb60-4f58-8106-e1e3f3cde123" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="StartWithTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="ab6a3ba6-ca27-4117-7600-40e61fea33d4">
+      <Owners>
+        <Owner name="HAOK" />
+      </Owners>
+      <Execution id="39e0bf63-2eb9-43b4-a0a0-b0f55f0ebba5" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.StringAssertClassTest" name="StartWithTest" />
+    </UnitTest>
+    <UnitTest name="AreCollectionsEquivalentTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="d16f1545-2366-1977-5243-2f4e0e53a414">
+      <Execution id="3dbe07d4-db73-4e13-9c7a-c2cf449e14d1" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.CollectionAssertClassTest" name="AreCollectionsEquivalentTest" />
+    </UnitTest>
+    <UnitTest name="FileNameNullOrEmpty_ThrowsArgumentNullException_UseTryCatch" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" priority="1" id="f57cb16f-aea9-f71d-48a8-459c61527b90">
+      <Owners>
+        <Owner name="Hanna Ostapenko" />
+      </Owners>
+      <TestCategory>
+        <TestCategoryItem TestCategory="Exception" />
+      </TestCategory>
+      <Execution id="6fda4e11-3c60-410b-8977-9cadbdd6cd57" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.FileProcessTest" name="FileNameNullOrEmpty_ThrowsArgumentNullException_UseTryCatch" />
+    </UnitTest>
+    <UnitTest name="GetEmployeesTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="ad964530-0513-a64f-c3ce-91b4cd4a6181">
+      <Execution id="cf2d86f5-65d9-4844-9ef1-8cac13911b76" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.PersonManagerTest" name="GetEmployeesTest" />
+    </UnitTest>
+    <UnitTest name="ContainsTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="9c482595-c7bc-cce9-e523-f9801ce13f6c">
+      <Owners>
+        <Owner name="HAOK" />
+      </Owners>
+      <Execution id="37e5d0a5-c489-46e5-8aca-b3b479e2860f" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.StringAssertClassTest" name="ContainsTest" />
+    </UnitTest>
+    <UnitTest name="IsCollectionOfTypeSupervisorsandEmployeeTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="c604f9dc-0c55-ecb7-a325-dd62a2d3bdbd">
+      <Execution id="28c8ea13-c867-4993-b9b6-6f5dd8dbba41" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.PersonManagerTest" name="IsCollectionOfTypeSupervisorsandEmployeeTest" />
+    </UnitTest>
+    <UnitTest name="CreatePerson_OfTypeEmployeeTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="d8d10b90-93b1-e4b7-8e8a-426ed51fe24f">
+      <Execution id="4abd935f-3c00-4b2c-84d6-3d1d219e051e" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.PersonManagerTest" name="CreatePerson_OfTypeEmployeeTest" />
+    </UnitTest>
+    <UnitTest name="AreSameTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="ebac0611-47f2-ba1b-dcbd-1ca59f0d3f82">
+      <Owners>
+        <Owner name="Hanna OstapenkoS" />
+      </Owners>
+      <Execution id="2635a2c2-bad0-4c29-8709-e093dad5c115" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.AssertClassTest" name="AreSameTest" />
+    </UnitTest>
+    <UnitTest name="SimulateTimeout" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="9a470c5a-185d-f2e8-7674-aec06fd05d17">
+      <Execution id="49e60a31-8201-4375-98cd-36ca539f650d" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.FileProcessTest" name="SimulateTimeout" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesExistMessageWithFormatting" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="a348bdde-e992-3785-bb48-93c677b88783">
+      <Execution id="62283064-c137-4d45-a652-75bd9c997740" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.FileProcessTest" name="FileNameDoesExistMessageWithFormatting" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesExist" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" priority="0" id="fdb63ed2-694c-d664-9728-c75237d89ac3">
+      <Owners>
+        <Owner name="Hanna Ostapenko" />
+      </Owners>
+      <TestCategory>
+        <TestCategoryItem TestCategory="NoException" />
+      </TestCategory>
+      <Execution id="41880ec0-fe20-42c2-90ba-8e8a231381f5" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.FileProcessTest" name="FileNameDoesExist" />
+    </UnitTest>
+    <UnitTest name="AreNotSameTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="c168005c-794f-017f-dfdb-bc7a06757b7c">
+      <Owners>
+        <Owner name="Hanna OstapenkoS" />
+      </Owners>
+      <Execution id="199bb4c3-2977-498b-ac68-68c5c23269d8" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.AssertClassTest" name="AreNotSameTest" />
+    </UnitTest>
+    <UnitTest name="IsNullTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="080f1493-1460-536e-1f1b-d1191bc2ccdd">
+      <Owners>
+        <Owner name="HAOK" />
+      </Owners>
+      <Execution id="3d822c26-2b72-4902-b433-61338d3e0f13" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.AssertClassTest" name="IsNullTest" />
+    </UnitTest>
+    <UnitTest name="AreNotEqualTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="aa89ef2d-b111-f9ff-cbf1-7eb334af590a">
+      <Owners>
+        <Owner name="Hanna OstapenkoS" />
+      </Owners>
+      <Execution id="dd0723ed-f27a-4064-8837-d44a8cfd65b6" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.AssertClassTest" name="AreNotEqualTest" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesExistSimpleMessage" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="daf73f76-6971-ced6-9cfd-0c4b16271512">
+      <Execution id="13f34f1b-341c-4389-b479-337bd13536ca" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.FileProcessTest" name="FileNameDoesExistSimpleMessage" />
+    </UnitTest>
+    <UnitTest name="AreCollectionsEqualTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="754a9a1e-4ffb-6f78-b64b-e6f8f66f303c">
+      <Execution id="66932c54-f324-4602-9468-d7e68f75c5d6" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.CollectionAssertClassTest" name="AreCollectionsEqualTest" />
+    </UnitTest>
+    <UnitTest name="IsNotAllLowerCaseTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="20ec1024-1667-0be1-45e1-8606789b30b1">
+      <Owners>
+        <Owner name="HAOK" />
+      </Owners>
+      <Execution id="feddd054-3f12-4285-91d3-2e6816fc43c8" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.StringAssertClassTest" name="IsNotAllLowerCaseTest" />
+    </UnitTest>
+    <UnitTest name="IsAllLowerCaseTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="3ffd4c12-5d8e-9b79-cb59-32326e42e625">
+      <Owners>
+        <Owner name="HAOK" />
+      </Owners>
+      <Execution id="4140f192-6bbe-4050-a619-7855fb579ea2" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.StringAssertClassTest" name="IsAllLowerCaseTest" />
+    </UnitTest>
+    <UnitTest name="AreEqualTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="0df9e683-cb53-aebe-889e-357c4473ffdb">
+      <Owners>
+        <Owner name="Hanna OstapenkoS" />
+      </Owners>
+      <Execution id="ad427680-6278-4110-a104-81a0445ccde5" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.AssertClassTest" name="AreEqualTest" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesNotExist" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" priority="0" id="8e1cbf42-8990-8520-e4f5-3d31cffe5c51">
+      <Owners>
+        <Owner name="Hanna Ostapenko" />
+      </Owners>
+      <TestCategory>
+        <TestCategoryItem TestCategory="NoException" />
+      </TestCategory>
+      <Execution id="6953301b-9bd2-4924-a760-e2f0b28bd688" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.FileProcessTest" name="FileNameDoesNotExist" />
+    </UnitTest>
+    <UnitTest name="AreCollectionsEqualWithComparerTestt" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="7033bb12-92d9-792c-f7a8-5e92be3783a8">
+      <Execution id="0e5142f4-353a-40b9-9cf4-a644f215fb52" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.CollectionAssertClassTest" name="AreCollectionsEqualWithComparerTestt" />
+    </UnitTest>
+    <UnitTest name="AreEqualCaseSensitiveTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="c522c2f3-bcb6-efc0-ff99-ead9be599c7c">
+      <Owners>
+        <Owner name="Hanna OstapenkoS" />
+      </Owners>
+      <Execution id="5eb0c802-ad51-47af-94bc-90f16973ac93" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.AssertClassTest" name="AreEqualCaseSensitiveTest" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesExistUsingDeploymentItem" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="8f766dce-a456-e293-bb17-30079514866c">
+      <Owners>
+        <Owner name="Hanna Ostapenko" />
+      </Owners>
+      <Execution id="bcaa65f3-3540-4984-99f2-3d81402c42fa" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.FileProcessTest" name="FileNameDoesExistUsingDeploymentItem" />
+    </UnitTest>
+    <UnitTest name="IsCollectionTypeTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="315ee99c-fd06-664d-4f2e-1dec0b5450b3">
+      <Execution id="a7f8544f-8de4-4b36-b068-230b9b014a95" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.CollectionAssertClassTest" name="IsCollectionTypeTest" />
+    </UnitTest>
+    <UnitTest name="FileNameNullOrEmpty_ThrowsArgumentNullException" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" priority="1" id="5d0605af-b11d-609f-ed31-d2c9788db9d3">
+      <Owners>
+        <Owner name="Hanna Ostapenko" />
+      </Owners>
+      <TestCategory>
+        <TestCategoryItem TestCategory="Exception" />
+      </TestCategory>
+      <Execution id="84bea047-fb60-4f58-8106-e1e3f3cde123" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.FileProcessTest" name="FileNameNullOrEmpty_ThrowsArgumentNullException" />
+    </UnitTest>
+    <UnitTest name="DoEmployeesExistTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="eb8193a6-de59-1884-11fa-f4991fd15217">
+      <Execution id="7c395712-83dd-47b2-8b7e-850f7b49c99a" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.PersonManagerTest" name="DoEmployeesExistTest" />
+    </UnitTest>
+    <UnitTest name="IsInstanceOfTypeTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="948a47df-51bb-4725-beb5-edc1acccd889">
+      <Owners>
+        <Owner name="HAOK" />
+      </Owners>
+      <Execution id="b9398573-2cf8-4be7-a1f8-fbba452baedc" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.AssertClassTest" name="IsInstanceOfTypeTest" />
+    </UnitTest>
+    <UnitTest name="AreCollectionsEqualFailsBecauseNoComparerTest" storage="u:\c#-training\1\consoleapp_hanna\consoleapp_hanna\test\myclassestest\bin\debug\myclassestest.dll" id="16ebbc70-dd0d-23a5-e94a-1f095b4b03b1">
+      <Execution id="0ce5d1f8-2fc6-4e15-8e0d-f5bd35f44c65" />
+      <TestMethod codeBase="U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\Test\MyClassesTest\bin\Debug\MyClassesTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MyClassesTest.CollectionAssertClassTest" name="AreCollectionsEqualFailsBecauseNoComparerTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="ab6a3ba6-ca27-4117-7600-40e61fea33d4" executionId="39e0bf63-2eb9-43b4-a0a0-b0f55f0ebba5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aa89ef2d-b111-f9ff-cbf1-7eb334af590a" executionId="dd0723ed-f27a-4064-8837-d44a8cfd65b6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8f766dce-a456-e293-bb17-30079514866c" executionId="bcaa65f3-3540-4984-99f2-3d81402c42fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eb8193a6-de59-1884-11fa-f4991fd15217" executionId="7c395712-83dd-47b2-8b7e-850f7b49c99a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9a470c5a-185d-f2e8-7674-aec06fd05d17" executionId="49e60a31-8201-4375-98cd-36ca539f650d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="754a9a1e-4ffb-6f78-b64b-e6f8f66f303c" executionId="66932c54-f324-4602-9468-d7e68f75c5d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fdb63ed2-694c-d664-9728-c75237d89ac3" executionId="41880ec0-fe20-42c2-90ba-8e8a231381f5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="948a47df-51bb-4725-beb5-edc1acccd889" executionId="b9398573-2cf8-4be7-a1f8-fbba452baedc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c604f9dc-0c55-ecb7-a325-dd62a2d3bdbd" executionId="28c8ea13-c867-4993-b9b6-6f5dd8dbba41" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="20ec1024-1667-0be1-45e1-8606789b30b1" executionId="feddd054-3f12-4285-91d3-2e6816fc43c8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0df9e683-cb53-aebe-889e-357c4473ffdb" executionId="ad427680-6278-4110-a104-81a0445ccde5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8e1cbf42-8990-8520-e4f5-3d31cffe5c51" executionId="6953301b-9bd2-4924-a760-e2f0b28bd688" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c522c2f3-bcb6-efc0-ff99-ead9be599c7c" executionId="5eb0c802-ad51-47af-94bc-90f16973ac93" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3ffd4c12-5d8e-9b79-cb59-32326e42e625" executionId="4140f192-6bbe-4050-a619-7855fb579ea2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f57cb16f-aea9-f71d-48a8-459c61527b90" executionId="6fda4e11-3c60-410b-8977-9cadbdd6cd57" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7033bb12-92d9-792c-f7a8-5e92be3783a8" executionId="0e5142f4-353a-40b9-9cf4-a644f215fb52" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ebac0611-47f2-ba1b-dcbd-1ca59f0d3f82" executionId="2635a2c2-bad0-4c29-8709-e093dad5c115" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a348bdde-e992-3785-bb48-93c677b88783" executionId="62283064-c137-4d45-a652-75bd9c997740" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8d10b90-93b1-e4b7-8e8a-426ed51fe24f" executionId="4abd935f-3c00-4b2c-84d6-3d1d219e051e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="315ee99c-fd06-664d-4f2e-1dec0b5450b3" executionId="a7f8544f-8de4-4b36-b068-230b9b014a95" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ad964530-0513-a64f-c3ce-91b4cd4a6181" executionId="cf2d86f5-65d9-4844-9ef1-8cac13911b76" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c168005c-794f-017f-dfdb-bc7a06757b7c" executionId="199bb4c3-2977-498b-ac68-68c5c23269d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9c482595-c7bc-cce9-e523-f9801ce13f6c" executionId="37e5d0a5-c489-46e5-8aca-b3b479e2860f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d16f1545-2366-1977-5243-2f4e0e53a414" executionId="3dbe07d4-db73-4e13-9c7a-c2cf449e14d1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="daf73f76-6971-ced6-9cfd-0c4b16271512" executionId="13f34f1b-341c-4389-b479-337bd13536ca" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="16ebbc70-dd0d-23a5-e94a-1f095b4b03b1" executionId="0ce5d1f8-2fc6-4e15-8e0d-f5bd35f44c65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="080f1493-1460-536e-1f1b-d1191bc2ccdd" executionId="3d822c26-2b72-4902-b433-61338d3e0f13" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5d0605af-b11d-609f-ed31-d2c9788db9d3" executionId="84bea047-fb60-4f58-8106-e1e3f3cde123" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="28" executed="28" passed="25" failed="3" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

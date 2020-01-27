@@ -1,0 +1,26 @@
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1 —new\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1 —new\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1 —new\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1 —new\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1 —new\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1 —new\ClassLibrary1\bin\Debug\WebDriver.dll
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1 —new\ClassLibrary1\bin\Debug\WebDriver.xml
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1 —new\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1\ClassLibrary1\bin\Debug\WebDriver.dll
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1\ClassLibrary1\bin\Debug\WebDriver.xml
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp2\ClassLibrary1\bin\Debug\WebDriver.dll
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp2\ClassLibrary1\bin\Debug\WebDriver.xml
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+U:\C#-TRAINING\app\HAOK-master\ConsoleApp2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
