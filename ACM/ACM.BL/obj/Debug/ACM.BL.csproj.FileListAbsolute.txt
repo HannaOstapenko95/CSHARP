@@ -1,0 +1,8 @@
+U:\C#-TRAINING\app\HAOK-master\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+U:\C#-TRAINING\app\HAOK-master\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+U:\C#-TRAINING\app\HAOK-master\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+U:\C#-TRAINING\app\HAOK-master\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+U:\C#-TRAINING\app\HAOK-master\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete

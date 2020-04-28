@@ -26,6 +26,7 @@ using NAMESPACES_NAM;
 using NULLABLES_NAM;
 using IDENTIFIERS_NAM;
 using FILE_SYSTEM_NAM;
+using LINQ_NAM;
 
 namespace MAIN_NAM 
 {
@@ -33,9 +34,8 @@ namespace MAIN_NAM
     {
 
         public static void Main(string[] args) //Метод Main ничего не возвращает 
-            { 
-            //Console.OpenStandardInput();
-                Console.WriteLine("\t\t\t\t\t\t C#\n");
+            {
+            Console.WriteLine("\t\t\t\t\t\t C#\n");
                 Content();
                 try
                     {
@@ -53,37 +53,41 @@ namespace MAIN_NAM
         }
         public static bool Content()
         {
+            Console.BackgroundColor = ConsoleColor.DarkRed;
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\t\t\t\t\tCONTENT\n");
-            Console.WriteLine("1\t\t\tVariable types & Literals & Casting and Type Conversions");
-            Console.WriteLine("\t1_1 Literals, String format/output");
-            Console.WriteLine("\t1_2 Variable types");
-            Console.WriteLine("\t1_3 Casting & Type Conversions");
-            Console.WriteLine("2\t\t\tOperators");
-            Console.WriteLine("3\t\t\tConditions (IF/ELSE, SWITCH/CASE)");
-            Console.WriteLine("4\t\t\tLoops (FOR/WHILE/DO WHILE)");
-            Console.WriteLine("5\t\t\tArrays");
-            Console.WriteLine("6\t\t\tMulti-dimensional arrays");
-            Console.WriteLine("7\t\t\tLists");
-            Console.WriteLine("8\t\t\tStrings");
-            Console.WriteLine("9\t\t\tTry & Catch");
-            Console.WriteLine("10\t\t\tClasses & Objects, Properties, GET/SETS");
-            Console.WriteLine("11\t\t\tMethods, Functions, ref, out, param, recursion");
-            Console.WriteLine("12\t\t\tInheritance, AS/IS, Virtual methods, Abstract classes");
-            Console.WriteLine("13\t\t\tMulti-Interfaces");
-            Console.WriteLine("14\t\t\tReload of Method, Reload of Operators, Type conversions");
-            Console.WriteLine("15\t\t\tEnums");
-            Console.WriteLine("16\t\t\tStructures, Massive of structures");
-            Console.WriteLine("17\t\t\tTuples");
-            Console.WriteLine("18\t\t\tREFERENCES Variables & Methods");
-            Console.WriteLine("19\t\t\tShadowing / hiding of methods, properties, variables");
-            Console.WriteLine("20\t\t\tRegular Expressions, File I/O");
-            Console.WriteLine("21\t\t\tPreprocessor Directives - CHECK");
-            Console.WriteLine("22\t\t\tNamespaces");
-            Console.WriteLine("23\t\t\tNullables");
-            Console.WriteLine("24\t\t\tIdentifiers");
-            Console.WriteLine("25\t\t\tWorking with Disks(streams and file system)");
-            /*long totalMemory = GC.GetTotalMemory(false);
-            Console.WriteLine(Convert.ToString(totalMemory));*/
+            Console.WriteLine("1__________Variable types & Literals & Casting and Type Conversions");
+            Console.WriteLine("\t1_1__________ Literals, String format/output");
+            Console.WriteLine("\t1_2__________ Variable types");
+            Console.WriteLine("\t1_3__________ Casting & Type Conversions");
+            Console.WriteLine("2__________Operators");
+            Console.WriteLine("3__________Conditions (IF/ELSE, SWITCH/CASE)");
+            Console.WriteLine("4__________Loops (FOR/WHILE/DO WHILE)");
+            Console.WriteLine("5__________Arrays");
+            Console.WriteLine("6__________Multi-dimensional arrays & Jagged Array");
+            Console.WriteLine("7__________Lists & Dictionaries");
+            Console.WriteLine("8__________Strings");
+            Console.WriteLine("9__________Try & Catch");
+            Console.WriteLine("10_________Classes & Objects, Properties, GET/SETS");
+            Console.WriteLine("11_________Methods, Functions, ref, out, param, recursion");
+            Console.WriteLine("12_________Inheritance, AS/IS, Virtual methods, Abstract classes");
+            Console.WriteLine("13_________Multi-Interfaces");
+            Console.WriteLine("14_________Reload of Method, Reload of Operators, Type conversions");
+            Console.WriteLine("15_________Enums");
+            Console.WriteLine("16_________Structures, Massive of structures");
+            Console.WriteLine("17_________Tuples");
+            Console.WriteLine("18_________REFERENCES Variables & Methods");
+            Console.WriteLine("19_________Shadowing / hiding of methods, properties, variables");
+            Console.WriteLine("20_________Regular Expressions, File I/O");
+            Console.WriteLine("21_________Preprocessor Directives - CHECK");
+            Console.WriteLine("22_________Namespaces");
+            Console.WriteLine("23_________Nullables");
+            Console.WriteLine("24_________Identifiers");
+            Console.WriteLine("25_________Working with Disks(streams and file system)");
+            Console.WriteLine("26_________LINQ)");
+            //long totalMemory = GC.GetTotalMemory(false);
+            //Console.WriteLine(Convert.ToString(totalMemory));
             return true;
         }
         public static void CheckReturnToContent()
@@ -118,7 +122,7 @@ namespace MAIN_NAM
             try
             {
                 x_choose = Convert.ToInt32(Console.ReadLine());
-                if (x_choose > 25 || x_choose < 1)
+                if (x_choose > 26 || x_choose < 1)
                 {
                     Console.WriteLine("\t\t\tEntered number is out of scope!");
                     Console.WriteLine("\t\t\tPlease, reenter number!");
@@ -130,6 +134,9 @@ namespace MAIN_NAM
                     {
                         case 1: //Working with variables
                             {
+                                Console.BackgroundColor = ConsoleColor.Green;
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Black;
                                 Console.WriteLine("1\t\t\t\tVARIABLE TYPES & LITERALS & CASTING and TYPE CONVERSIONS");
                                 Console.WriteLine("1_1\tLITERALS");
                                 Console.WriteLine("1_2\tVARIABLE TYPES");
@@ -140,36 +147,54 @@ namespace MAIN_NAM
                             }
                         case 2: //Basic operations
                             {
+                                Console.BackgroundColor = ConsoleColor.Yellow;
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Black;
                                 OPERATORS oper = new OPERATORS();
                                 oper.OPERATIONS();
                                 break;
                             }
                         case 3: //Conditions (IF/ELSE, SWITCH/CASE)
                             {
+                                Console.BackgroundColor = ConsoleColor.DarkGreen;
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.White;
                                 CONDITIONS cond = new CONDITIONS();
                                 cond.CONDITIONS_M();
                                 break;
                             }
                         case 4: //Loops (FOR/WHILE/DO WHILE)
                             {
+                                Console.BackgroundColor = ConsoleColor.Cyan;
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.DarkBlue;
                                 LOOPS loop_block = new LOOPS();
                                 loop_block.LOOPS_M();
                                 break;
                             }
                         case 5: //ARRAYS
                             {
+                                Console.BackgroundColor = ConsoleColor.DarkMagenta;
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.White;
                                 ARRAYS arr = new ARRAYS();
                                 arr.ARRAYS_M();
                                 break;
                             }
                         case 6: //Multi-dimensional arrays
                             {
+                                Console.BackgroundColor = ConsoleColor.DarkGray;
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Yellow;
                                 MULTI_ARRAYS arr_m = new MULTI_ARRAYS();
                                 arr_m.MULTI_ARRAYS_M();
                                 break;
                             }
                         case 7: //Lists - we don't know number of elements, uses more memory
                             {
+                                Console.BackgroundColor = ConsoleColor.DarkBlue;
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.White;
                                 LISTS list = new LISTS();
                                 list.LISTS_M();
                                 break;
@@ -280,6 +305,12 @@ namespace MAIN_NAM
                             {
                                 FILE_SYSTEM files = new FILE_SYSTEM();
                                 files.FILE_SYSTEM_M();
+                                break;
+                            }
+                        case 26:
+                            {
+                                LINQ link = new LINQ();
+                                link.LINQ_M();
                                 break;
                             }
                     }

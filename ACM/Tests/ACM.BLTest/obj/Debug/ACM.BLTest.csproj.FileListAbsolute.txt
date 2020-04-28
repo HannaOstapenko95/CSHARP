@@ -1,0 +1,17 @@
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BL.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BL.pdb
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csprojAssemblyReference.cache
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\Acme.Common.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Tests\ACM.BLTest\bin\Debug\Acme.Common.pdb

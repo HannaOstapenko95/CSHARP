@@ -60,4 +60,3 @@ U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ConsoleApp1\obj\Debug\Hanna_C
 U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ConsoleApp1\obj\Debug\Hanna_ConsoleApp.csproj.CopyComplete
 U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
-U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ConsoleApp1\obj\Debug\Hanna_ConsoleApp.csprojResolveAssemblyReference.cache

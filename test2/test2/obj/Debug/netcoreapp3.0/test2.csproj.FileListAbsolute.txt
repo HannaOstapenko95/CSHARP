@@ -1,0 +1,10 @@
+U:\C#-TRAINING\test2\test2\bin\Debug\netcoreapp3.0\test2.deps.json
+U:\C#-TRAINING\test2\test2\bin\Debug\netcoreapp3.0\test2.dll
+U:\C#-TRAINING\test2\test2\obj\Debug\netcoreapp3.0\test2.csprojAssemblyReference.cache
+U:\C#-TRAINING\test2\test2\obj\Debug\netcoreapp3.0\test2.AssemblyInfoInputs.cache
+U:\C#-TRAINING\test2\test2\obj\Debug\netcoreapp3.0\test2.AssemblyInfo.cs
+U:\C#-TRAINING\test2\test2\bin\Debug\netcoreapp3.0\test2.runtimeconfig.json
+U:\C#-TRAINING\test2\test2\bin\Debug\netcoreapp3.0\test2.runtimeconfig.dev.json
+U:\C#-TRAINING\test2\test2\bin\Debug\netcoreapp3.0\test2.pdb
+U:\C#-TRAINING\test2\test2\obj\Debug\netcoreapp3.0\test2.dll
+U:\C#-TRAINING\test2\test2\obj\Debug\netcoreapp3.0\test2.pdb

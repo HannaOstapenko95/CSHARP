@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\XUnitTestProject1\\XUnitHanna_ConsoleAppTest.csproj": {}
+    "U:\\Hanna_Apps\\ConsoleApp_Hanna\\XUnitTestProject1\\XUnitHanna_ConsoleAppTest.csproj": {}
   },
   "projects": {
-    "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\ClassLibrary1\\Library_display.csproj": {
+    "U:\\Hanna_Apps\\ConsoleApp_Hanna\\ClassLibrary1\\Library_display.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\ClassLibrary1\\Library_display.csproj",
+        "projectUniqueName": "U:\\Hanna_Apps\\ConsoleApp_Hanna\\ClassLibrary1\\Library_display.csproj",
         "projectName": "Library_display",
-        "projectPath": "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\ClassLibrary1\\Library_display.csproj"
+        "projectPath": "U:\\Hanna_Apps\\ConsoleApp_Hanna\\ClassLibrary1\\Library_display.csproj"
       },
       "frameworks": {
         "net461": {}
       }
     },
-    "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\ConsoleApp1\\Hanna_ConsoleApp.csproj": {
+    "U:\\Hanna_Apps\\ConsoleApp_Hanna\\ConsoleApp1\\Hanna_ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\ConsoleApp1\\Hanna_ConsoleApp.csproj",
+        "projectUniqueName": "U:\\Hanna_Apps\\ConsoleApp_Hanna\\ConsoleApp1\\Hanna_ConsoleApp.csproj",
         "projectName": "Hanna_ConsoleApp",
-        "projectPath": "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\ConsoleApp1\\Hanna_ConsoleApp.csproj",
+        "projectPath": "U:\\Hanna_Apps\\ConsoleApp_Hanna\\ConsoleApp1\\Hanna_ConsoleApp.csproj",
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\ClassLibrary1\\Library_display.csproj": {
-                "projectPath": "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\ClassLibrary1\\Library_display.csproj"
+              "U:\\Hanna_Apps\\ConsoleApp_Hanna\\ClassLibrary1\\Library_display.csproj": {
+                "projectPath": "U:\\Hanna_Apps\\ConsoleApp_Hanna\\ClassLibrary1\\Library_display.csproj"
               }
             }
           }
@@ -35,14 +35,14 @@
         "net461": {}
       }
     },
-    "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\XUnitTestProject1\\XUnitHanna_ConsoleAppTest.csproj": {
+    "U:\\Hanna_Apps\\ConsoleApp_Hanna\\XUnitTestProject1\\XUnitHanna_ConsoleAppTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\XUnitTestProject1\\XUnitHanna_ConsoleAppTest.csproj",
+        "projectUniqueName": "U:\\Hanna_Apps\\ConsoleApp_Hanna\\XUnitTestProject1\\XUnitHanna_ConsoleAppTest.csproj",
         "projectName": "XUnitHanna_ConsoleAppTest",
-        "projectPath": "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\XUnitTestProject1\\XUnitHanna_ConsoleAppTest.csproj",
+        "projectPath": "U:\\Hanna_Apps\\ConsoleApp_Hanna\\XUnitTestProject1\\XUnitHanna_ConsoleAppTest.csproj",
         "packagesPath": "C:\\Users\\HAOK\\.nuget\\packages\\",
-        "outputPath": "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\XUnitTestProject1\\obj\\",
+        "outputPath": "U:\\Hanna_Apps\\ConsoleApp_Hanna\\XUnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HAOK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,8 +58,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\ConsoleApp1\\Hanna_ConsoleApp.csproj": {
-                "projectPath": "U:\\C#-TRAINING\\1\\ConsoleApp_Hanna\\ConsoleApp_Hanna\\ConsoleApp1\\Hanna_ConsoleApp.csproj"
+              "U:\\Hanna_Apps\\ConsoleApp_Hanna\\ConsoleApp1\\Hanna_ConsoleApp.csproj": {
+                "projectPath": "U:\\Hanna_Apps\\ConsoleApp_Hanna\\ConsoleApp1\\Hanna_ConsoleApp.csproj"
               }
             }
           }
@@ -102,7 +102,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

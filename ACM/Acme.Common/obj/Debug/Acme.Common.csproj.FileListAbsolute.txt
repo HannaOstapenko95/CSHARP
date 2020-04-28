@@ -1,0 +1,5 @@
+U:\C#-TRAINING\app\HAOK-master\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+U:\C#-TRAINING\app\HAOK-master\ACM\Acme.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
+U:\C#-TRAINING\app\HAOK-master\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+U:\C#-TRAINING\app\HAOK-master\ACM\Acme.Common\obj\Debug\Acme.Common.pdb

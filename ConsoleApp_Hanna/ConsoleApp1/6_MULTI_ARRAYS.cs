@@ -1,5 +1,6 @@
 ﻿using System;
 using MAIN_NAM;
+using NoughtsCrosses;
 
 namespace MULTI_ARRAYS_NAM
 {
@@ -7,7 +8,7 @@ namespace MULTI_ARRAYS_NAM
     {
         public void MULTI_ARRAYS_M()
         {
-            Console.WriteLine("\t\t\tMulti-dimensional arrays");
+            Console.WriteLine("\t\t\tMulti-dimensional arrays & Jagged Array");
             Console.WriteLine("Each element is a massive");
             int[,] nu = new int[10, 10];
             //nu[0, 0] = 11;
@@ -68,6 +69,11 @@ namespace MULTI_ARRAYS_NAM
                                     new int[,] { {1,2}, {3,5}, {8, 13} }
             };
             //зубчатые массивы
+            Console.WriteLine("\t\t\tJUGGED ARRAYS");
+            Game game = new Game();
+            game.PlayGame();
+            Console.WriteLine("Game over");
+
             int[][] numbers = new int[3][];
             numbers[0] = new int[] { 1, 2 };
             numbers[1] = new int[] { 1, 2, 3 };

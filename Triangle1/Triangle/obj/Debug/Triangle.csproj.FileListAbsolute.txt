@@ -1,0 +1,49 @@
+D:\СИШАРП\Triangle\Triangle\bin\Debug\Triangle.exe.config
+D:\СИШАРП\Triangle\Triangle\bin\Debug\Triangle.exe
+D:\СИШАРП\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.Form1.resources
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.exe
+D:\СИШАРП\Triangle\Triangle\obj\Debug\Triangle.pdb
+D:\СИШАРП\Triangle — копия\Triangle\bin\Debug\Triangle.exe.config
+D:\СИШАРП\Triangle — копия\Triangle\bin\Debug\Triangle.exe
+D:\СИШАРП\Triangle — копия\Triangle\bin\Debug\Triangle.pdb
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.Form1.resources
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.exe
+D:\СИШАРП\Triangle — копия\Triangle\obj\Debug\Triangle.pdb
+D:\C\Triangle — копия\Triangle\bin\Debug\Triangle.exe.config
+D:\C\Triangle — копия\Triangle\bin\Debug\Triangle.exe
+D:\C\Triangle — копия\Triangle\bin\Debug\Triangle.pdb
+D:\C\Triangle — копия\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\C\Triangle — копия\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+D:\C\Triangle — копия\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+D:\C\Triangle — копия\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\C\Triangle — копия\Triangle\obj\Debug\Triangle.exe
+D:\C\Triangle — копия\Triangle\obj\Debug\Triangle.pdb
+D:\C\Triangle — копия\Triangle\obj\Debug\Triangle.Form_Triangle.resources
+U:\C#-TRAINING\1\Triangle — копия\Triangle\bin\Debug\Triangle.exe.config
+U:\C#-TRAINING\1\Triangle — копия\Triangle\bin\Debug\Triangle.exe
+U:\C#-TRAINING\1\Triangle — копия\Triangle\bin\Debug\Triangle.pdb
+U:\C#-TRAINING\1\Triangle — копия\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+U:\C#-TRAINING\1\Triangle — копия\Triangle\obj\Debug\Triangle.Form_Triangle.resources
+U:\C#-TRAINING\1\Triangle — копия\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+U:\C#-TRAINING\1\Triangle — копия\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+U:\C#-TRAINING\1\Triangle — копия\Triangle\obj\Debug\Triangle.exe
+U:\C#-TRAINING\1\Triangle — копия\Triangle\obj\Debug\Triangle.pdb
+U:\Hanna_Apps\Triangle1\Triangle\bin\Debug\Triangle.exe.config
+U:\Hanna_Apps\Triangle1\Triangle\bin\Debug\Triangle.exe
+U:\Hanna_Apps\Triangle1\Triangle\bin\Debug\Triangle.pdb
+U:\Hanna_Apps\Triangle1\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+U:\Hanna_Apps\Triangle1\Triangle\obj\Debug\Triangle.Form_Triangle.resources
+U:\Hanna_Apps\Triangle1\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+U:\Hanna_Apps\Triangle1\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+U:\Hanna_Apps\Triangle1\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+U:\Hanna_Apps\Triangle1\Triangle\obj\Debug\Triangle.exe
+U:\Hanna_Apps\Triangle1\Triangle\obj\Debug\Triangle.pdb

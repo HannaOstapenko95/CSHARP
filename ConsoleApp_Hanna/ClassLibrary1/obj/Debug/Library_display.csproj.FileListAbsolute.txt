@@ -4,4 +4,5 @@ U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ClassLibrary1\bin\Debug\WebDr
 U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ClassLibrary1\bin\Debug\WebDriver.xml
 U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
-U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ClassLibrary1\obj\Debug\Library_display.csprojResolveAssemblyReference.cache
+U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ClassLibrary1\obj\Debug\Library_display.csprojAssemblyReference.cache
+U:\C#-TRAINING\1\ConsoleApp_Hanna\ConsoleApp_Hanna\ClassLibrary1\obj\Debug\Library_display.csproj.CopyComplete
